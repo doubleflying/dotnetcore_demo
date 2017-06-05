@@ -1,0 +1,12 @@
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\bin\Debug\netcoreapp2.0\aspnetcorewebapi2.0.deps.json
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\bin\Debug\netcoreapp2.0\aspnetcorewebapi2.0.runtimeconfig.json
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\bin\Debug\netcoreapp2.0\aspnetcorewebapi2.0.runtimeconfig.dev.json
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\bin\Debug\netcoreapp2.0\aspnetcorewebapi2.0.dll
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\bin\Debug\netcoreapp2.0\aspnetcorewebapi2.0.pdb
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\obj\Debug\netcoreapp2.0\aspnetcorewebapi2.0.csproj.CoreCompileInputs.cache
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\obj\Debug\netcoreapp2.0\aspnetcorewebapi2.0.AssemblyInfo.cs
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\obj\Debug\netcoreapp2.0\aspnetcorewebapi2.0.dll
+E:\mycode\dotnet\dotnetcore_demo\aspnetcorewebapi2.0\obj\Debug\netcoreapp2.0\aspnetcorewebapi2.0.pdb
